@@ -1,0 +1,525 @@
+Coppery Tailed Coucal
+Purple Gallinule
+Crimson Chat
+Japanese Robin
+Wrentit
+Cerulean Warbler
+Visayan Hornbill
+Red Faced Cormorant
+Verdin
+Short Billed Dowitcher
+Brewers Blackbird
+Loggerhead Shrike
+Eurasian Bullfinch
+Andean Goose
+Military Macaw
+Gang Gang Cockatoo
+Eastern Rosella
+Black Francolin
+Ivory Gull
+Green Jay
+Great Potoo
+Elliots  Pheasant
+Blonde Crested Woodpecker
+Blue Dacnis
+Lazuli Bunting
+American Bittern
+Puffin
+Rudy Kingfisher
+Black Tail Crake
+Common Iora
+Eastern Bluebird
+Capped Heron
+Bornean Bristlehead
+Chestnut Winged Cuckoo
+Roseate Spoonbill
+Cape Glossy Starling
+Australasian Figbird
+Cape Rock Thrush
+Common House Martin
+Gambels Quail
+Striated Caracara
+Hyacinth Macaw
+Paradise Tanager
+Red Headed Woodpecker
+Greator Sage Grouse
+Cream Colored Woodpecker
+Alexandrine Parakeet
+Rock Dove
+Purple Finch
+Fairy Tern
+Auckland Shaq
+Cassowary
+Snowy Sheathbill
+Eastern Wip Poor Will
+Fan Tailed Widow
+Red Headed Duck
+Bufflehead
+Yellow Breasted Chat
+Samatran Thrush
+American Avocet
+Black And Yellow Broadbill
+Red Tailed Thrush
+Flame Tanager
+Alberts Towhee
+Tasmanian Hen
+Townsends Warbler
+Grey Cuckooshrike
+Indigo Flycatcher
+Sri Lanka Blue Magpie
+Kookaburra
+Albatross
+Brown Thrasher
+Vulturine Guineafowl
+Antbird
+Black Faced Spoonbill
+Kakapo
+Barrows Goldeneye
+Northern Parula
+Indian Vulture
+Northern Gannet
+Shoebill
+Black Cockato
+Wood Duck
+Hawaiian Goose
+Touchan
+Brown Noody
+Razorbill
+California Quail
+Groved Billed Ani
+King Eider
+Wilsons Bird Of Paradise
+Lark Bunting
+Cuban Trogon
+Daurian Redstart
+Osprey
+Blackburniam Warbler
+Glossy Ibis
+Chestnet Bellied Euphonia
+Purple Swamphen
+Apapane
+Spotted Catbird
+Tit Mouse
+Red Browed Finch
+Parus Major
+Evening Grosbeak
+Northern Mockingbird
+Stripped Swallow
+Black Vented Shearwater
+White Throated Bee Eater
+Collared Aracari
+Horned Guan
+Azaras Spinetail
+Ecuadorian Hillstar
+Gila Woodpecker
+Orange Breasted Trogon
+Guineafowl
+Pygmy Kingfisher
+Golden Bower Bird
+Greater Pewee
+Red Fody
+Turkey Vulture
+Asian Crested Ibis
+Eurasian Magpie
+Snowy Egret
+Tree Swallow
+Stork Billed Kingfisher
+Belted Kingfisher
+Great Xenops
+Barn Owl
+Northern Red Bishop
+Bush Turkey
+Austral Canastero
+Harpy Eagle
+Northern Jacana
+Crested Serpent Eagle
+Double Barred Finch
+White Crested Hornbill
+House Sparrow
+Bornean Pheasant
+Inland Dotterel
+Red Crossbill
+Blood Pheasant
+Emperor Penguin
+Capuchinbird
+Wattled Curassow
+Clarks Grebe
+Iwi
+Gyrfalcon
+Chucao Tapaculo
+Azure Tit
+Kagu
+Bananaquit
+Sand Martin
+Snowy Plover
+Quetzal
+Northern Cardinal
+Okinawa Rail
+Tropical Kingbird
+Banded Broadbill
+Crested Auklet
+Harlequin Duck
+Ocellated Turkey
+Hooded Merganser
+Malagasy White Eye
+Black-Capped Chickadee
+Parakett  Auklet
+Black Vulture
+Chinese Pond Heron
+Red Naped Trogon
+Hamerkop
+Avadavat
+Band Tailed Guan
+California Condor
+Forest Wagtail
+Gurneys Pitta
+Rufous Kingfisher
+Anhinga
+Mikado  Pheasant
+African Pygmy Goose
+Limpkin
+Cockatoo
+Venezuelian Troupial
+Dunlin
+Scarlet Macaw
+Noisy Friarbird
+Double Brested Cormarant
+Ring-Necked Pheasant
+Stripped Manakin
+Spotted Whistling Duck
+Blue Throated Toucanet
+Killdear
+Eurasian Golden Oriole
+Demoiselle Crane
+Philippine Eagle
+Frigate
+Inca Tern
+Blue Grosbeak
+Palila
+Umbrella Bird
+Helmet Vanga
+Crested Shriketit
+Rose Breasted Grosbeak
+Northern Goshawk
+Orange Brested Bunting
+Northern Beardless Tyrannulet
+Looney Birds
+American Flamingo
+Cape Longclaw
+Bali Starling
+White Cheeked Turaco
+Violet Green Swallow
+American Dipper
+Great Argus
+Common Poorwill
+Great Jacamar
+Carmine Bee-Eater
+Fasciated Wren
+Indian Roller
+House Finch
+Jacobin Pigeon
+Golden Cheeked Warbler
+Grey Headed Fish Eagle
+Harlequin Quail
+Swinhoes Pheasant
+Chukar Partridge
+Brown Headed Cowbird
+Squacco Heron
+Gilded Flicker
+Red Tailed Hawk
+Ashy Thrushbird
+Curl Crested Aracuri
+American Coot
+Black-Necked Grebe
+Steamer Duck
+Trumpter Swan
+Roadrunner
+Burchells Courser
+Tailorbird
+African Oyster Catcher
+European Turtle Dove
+Himalayan Bluetail
+Ruddy Shelduck
+Northern Fulmar
+Gray Catbird
+White Breasted Waterhen
+Andean Lapwing
+Caspian Tern
+Black Throated Huet
+Tawny Frogmouth
+Eastern Bluebonnet
+Maleo
+Chipping Sparrow
+Azure Breasted Pitta
+Red Knot
+Peacock
+Ruby Crowned Kinglet
+Annas Hummingbird
+Says Phoebe
+Bornean Leafbird
+Black Swan
+Chattering Lory
+Golden Pipit
+Sunbittern
+Ibisbill
+Golden Eagle
+Brandt Cormarant
+African Crowned Crane
+Crane Hawk
+Oyster Catcher
+Abbotts Babbler
+Masked Lapwing
+Painted Bunting
+Iberian Magpie
+Malachite Kingfisher
+African Pied Hornbill
+American Kestrel
+Regent Bowerbird
+Crested Kingfisher
+Egyptian Goose
+Amethyst Woodstar
+Bulwers Pheasant
+Cinnamon Teal
+Scarlet Tanager
+Baikal Teal
+Frill Back Pigeon
+Gray Partridge
+Violet Cuckoo
+Mallard Duck
+Splendid Wren
+Lucifer Hummingbird
+Red Bellied Pitta
+D-Arnauds Barbet
+White Tailed Tropic
+Chinese Bamboo Partridge
+Enggano Myna
+Hawfinch
+Myna
+Turquoise Motmot
+Canary
+Imperial Shaq
+Baltimore Oriole
+Mangrove Cuckoo
+Horned Lark
+Woodland Kingfisher
+Mourning Dove
+Violet Backed Starling
+Crested Coua
+Green Broadbill
+Bald Ibis
+Brown Crepper
+Striped Owl
+Blue Throated Piping Guan
+Common Firecrest
+Rough Leg Buzzard
+Eastern Meadowlark
+Dusky Robin
+Golden Chlorophonia
+Hoatzin
+Asian Openbill Stork
+Fire Tailled Myzornis
+Asian Dollard Bird
+Red Bearded Bee Eater
+Scarlet Faced Liocichla
+Wood Thrush
+Mckays Bunting
+Gray Kingbird
+Green Winged Dove
+Jack Snipe
+Fairy Penguin
+Rainbow Lorikeet
+Crested Fireback
+Blue Gray Gnatcatcher
+Rufuos Motmot
+Anianiau
+Java Sparrow
+Phainopepla
+Nicobar Pigeon
+Common Loon
+Abbotts Booby
+Apostlebird
+Great Tinamou
+Surf Scoter
+White Necked Raven
+American Pipit
+White Browed Crake
+Bearded Barbet
+Wild Turkey
+Jabiru
+Mandrin Duck
+Elegant Trogon
+White Eared Hummingbird
+American Wigeon
+Cactus Wren
+Black Throated Bushtit
+Golden Pheasant
+Grandala
+Red Faced Warbler
+Patagonian Sierra Finch
+Dark Eyed Junco
+Taiwan Magpie
+Indian Pitta
+Tricolored Blackbird
+Wattled Lapwing
+Eastern Towee
+Black Breasted Puffbird
+Dusky Lory
+Cabots Tragopan
+Ivory Billed Aracari
+Oriental Bay Owl
+Andean Siskin
+Double Eyed Fig Parrot
+Emu
+Abyssinian Ground Hornbill
+Crested Nuthatch
+Spoon Biled Sandpiper
+Zebra Dove
+Smiths Longspur
+Azure Tanager
+Blue Heron
+Hoopoes
+Knob Billed Duck
+Gouldian Finch
+Masked Booby
+Red Billed Tropicbird
+Clarks Nutcracker
+Downy Woodpecker
+Rosy Faced Lovebird
+Ruby Throated Hummingbird
+Teal Duck
+American Goldfinch
+Fairy Bluebird
+Darjeeling Woodpecker
+Oilbird
+Blue Grouse
+Black Skimmer
+Great Gray Owl
+Pomarine Jaeger
+Lesser Adjutant
+Plush Crested Jay
+Fiery Minivet
+Fiordland Penguin
+Cuban Tody
+Eastern Yellow Robin
+Dalmatian Pelican
+Blue Malkoha
+Crab Plover
+Pyrrhuloxia
+Altamira Yellowthroat
+Asian Green Bee Eater
+Willow Ptarmigan
+Azure Jay
+Malabar Hornbill
+Barn Swallow
+Pink Robin
+Masked Bobwhite
+Black Headed Caique
+Long-Eared Owl
+Royal Flycatcher
+Bearded Reedling
+Wall Creaper
+Scarlet Crowned Fruit Dove
+Takahe
+Eastern Golden Weaver
+Barred Puffbird
+Collared Crescentchest
+Little Auk
+Ornate Hawk Eagle
+Blue Coau
+California Gull
+Snow Partridge
+Ovenbird
+American Robin
+Violet Turaco
+Northern Shoveler
+Jandaya Parakeet
+Bar-Tailed Godwit
+Cape May Warbler
+Antillean Euphonia
+Flame Bowerbird
+Yellow Bellied Flowerpecker
+Grey Headed Chachalaca
+Bearded Bellbird
+Scarlet Ibis
+African Emerald Cuckoo
+Snowy Owl
+Hepatic Tanager
+Guinea Turaco
+Green Magpie
+Black-Throated Sparrow
+Bird Of Paradise
+Ostrich
+Indian Bustard
+Puna Teal
+Black Throated Warbler
+Palm Nut Vulture
+Campo Flicker
+Caatinga Cacholote
+Superb Starling
+Bald Eagle
+Rufous Trepe
+Ashy Storm Petrel
+Bobolink
+Rose Breasted Cockatoo
+Indigo Bunting
+Red Legged Honeycreeper
+Gold Wing Warbler
+Bay-Breasted Warbler
+Crested Caracara
+Vermilion Flycather
+Crow
+Crested Wood Partridge
+Laughing Gull
+Coppersmith Barbet
+Grey Plover
+King Vulture
+Greater Prairie Chicken
+Satyr Tragopan
+Kiwi
+Golden Parakeet
+Crested Oropendola
+Black Necked Stilt
+Sora
+Emerald Tanager
+Sandhill Crane
+Cock Of The  Rock
+Red Wiskered Bulbul
+Chara De Collar
+Eared Pita
+Jocotoco Antpitta
+Black Baza
+Veery
+Whimbrel
+Araripe Manakin
+Crimson Sunbird
+Yellow Cacique
+Yellow Headed Blackbird
+Spangled Cotinga
+Banded Pita
+Purple Martin
+Peregrine Falcon
+European Goldfinch
+Canvasback
+Red Shouldered Hawk
+Horned Sungem
+Cedar Waxwing
+African Firefinch
+Cinnamon Flycatcher
+Banded Stilt
+Victoria Crowned Pigeon
+Go Away Bird
+Great Kiskadee
+Red Winged Blackbird
+Northern Flicker
+American Redstart
+Himalayan Monal
+Lilac Roller
+Cinnamon Attila
+Snow Goose
+Merlin
+Marabou Stork
+Magpie Goose
+Common Grackle
+Common Starling
+Alpine Chough
+Varied Thrush
